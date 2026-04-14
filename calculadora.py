@@ -1,3 +1,6 @@
+# alteração Elayne
+# alterando na feature
+
 def somar(a, b):
     return a + b
 
